@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Priority {\n  constructor(id, title, color) {\n    this.id = id;\n    this.title = title;\n    this.color = color;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

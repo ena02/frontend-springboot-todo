@@ -1,0 +1,1 @@
+{"ast":null,"code":"// тип действия/операции\nexport var OperType = /*#__PURE__*/(() => {\n  (function (OperType) {\n    OperType[OperType[\"ADD\"] = 0] = \"ADD\";\n    OperType[OperType[\"EDIT\"] = 1] = \"EDIT\";\n  })(OperType || (OperType = {}));\n\n  return OperType;\n})();","map":null,"metadata":{},"sourceType":"module"}
